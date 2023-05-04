@@ -1,6 +1,6 @@
-# a-b-testing-globox e-commerce company
+# A/B testing for GloBox e-commerce company
 
-## GloBox is an online marketplace that specializes in sourcing unique and high-quality products from around the world.
+### GloBox is an online marketplace that specializes in sourcing unique and high-quality products from around the world.
 
 ## GloBox is primarily known amongst its customer base for boutique fashion items and high-end decor products. However, their food and drink offerings have grown tremendously in the last few months, and the company wants to bring awareness to this product category to increase revenue.
 
