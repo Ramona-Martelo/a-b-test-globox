@@ -15,3 +15,6 @@
 A user visits the GloBox main page and is randomly assigned to either the control or test group. This is the join date for the user.
 The page loads the banner if the user is assigned to the test group, and does not load the banner if the user is assigned to the control group.
 The user subsequently may or may not purchase products from the website. It could be on the same day they join the experiment, or days later. If they do make one or more purchases, this is considered a “conversion”.
+
+DATA: https://docs.google.com/spreadsheets/d/1msHU_7PmXFRLWGQqwZtz7szVf5TQS_AQxYvcd95xD6Y/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1QPvEey71mkwdBuSmGKwalO2AtOhA8ar8L2KOv7Y6duc/edit?usp=sharing
